@@ -1,0 +1,7 @@
+ProjectCmakeOpencv/
+Debug/
+x64/
+testOpenCV2binary2/data/
+testOpenCV2binary2/outputs/
+testOpenCV2binary2/x64/
+.vs/
